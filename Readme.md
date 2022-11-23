@@ -58,4 +58,4 @@
   
 ## 人工智能
 
-- [AI4S](https://github.com/sindresorhus/awesome-nodejs#readme) 
+- [AI4S](https://github.com/Paipipaipi/AI4S) 
