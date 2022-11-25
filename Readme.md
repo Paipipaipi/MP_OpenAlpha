@@ -59,4 +59,4 @@
 ## 人工智能
 
 - [AI4S](https://github.com/Paipipaipi/AI4S) 
-AIGC行研报告：https://github.com/wangzuzihan/AIGC/edit/main/Readme.md
+
