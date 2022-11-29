@@ -61,5 +61,5 @@ OpenAlpha是一个开源的行研平台，我们寻找有独特视角的投资�
 ## 人工智能
 
 - [AI4S](https://github.com/Paipipaipi/AI4S)
-- [AIGC]()
+- [AIGC](https://github.com/wangzuzihan/AIGC-)
 
